@@ -1,2 +1,3 @@
-# tetrix
-tetrix game with flutter
+# tetris
+
+A new Flutter project.
